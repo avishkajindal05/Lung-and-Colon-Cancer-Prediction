@@ -134,13 +134,15 @@ Confidence visualization per class
 Clean, responsive UI
 Cached model loading for performance
 
-### 📊 Evaluation Metrics
+---
 
+### 📊 Evaluation Metrics
 Accuracy
 Precision
 Recall
 F1-score
 Confusion matrix visualization
+
 ---
 
 ## 🎓 Learning Outcomes
@@ -151,16 +153,19 @@ Hyperparameter tuning workflows
 Model evaluation and diagnostics
 ML deployment using Streamlit
 End-to-end deep learning pipeline design
+
 ---
 ## ⚠️ Academic Disclaimer
 
 This project is intended strictly for academic and research purposes.
 It is not approved for clinical diagnosis or medical decision-making.
+
 --- 
 ## 👤 Author
 
-Krrish Madan and Avishka Jindal
+Avishka Jindal and Krrish Madan
 B.Tech – Artificial Intelligence & Machine Learning
 Deep Learning & Medical Imaging Project
+
 ---
 ⭐ If you find this project informative, feel free to star the repository.
